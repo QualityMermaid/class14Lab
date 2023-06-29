@@ -1,1 +1,31 @@
 /* TODO: Make it awesome */
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: antiquewhite;
+    color: blueviolet;
+    margin: 1rem;
+}
+
+h1{
+    color: brown;
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: center;
+    margin: 1rem;
+}
+
+h2{
+    font-size: 2rem;
+    margin: auto;
+    font-weight: 300;
+    padding: 1rem;
+}
+
+img{
+    width: 30%;
+}
