@@ -42,7 +42,6 @@ AppState.prototype.loadItems = function () {
 
 }
 
-
 function Product(name, fileExtension = 'jpg') {
     this.name = name;
     this.source = `assets/${name}.${fileExtension}`;

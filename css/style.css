@@ -7,7 +7,7 @@
 body{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: antiquewhite;
-    color: blueviolet;
+    color: black;
     margin: 1rem;
 }
 
@@ -19,13 +19,34 @@ h1{
     margin: 1rem;
 }
 
-h2{
-    font-size: 2rem;
-    margin: auto;
-    font-weight: 300;
-    padding: 1rem;
+nav{
+    text-align: center;
+    padding: 1px 2px;
+    font-size: 17px;
+}
+
+ul{
+    margin: 1rem;
+}
+
+li{
+    margin: 1rem;
+}
+
+a{
+    text-decoration: none;
+    margin: 1rem;
+    color: black;
 }
 
 img{
     width: 30%;
+}
+
+footer p{
+    margin: auto;
+    text-align: center;
+    color: royalblue;
+    margin: 1rem;
+    padding-top: 2rem;
 }
